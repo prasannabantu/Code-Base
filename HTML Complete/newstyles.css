@@ -1,0 +1,15 @@
+body {
+  background-color: tomato;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+p {
+  color: blue;
+}
+
+#p01 {
+  color: black;
+}
